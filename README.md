@@ -12,14 +12,13 @@ const leon: Developer = {
     ecommerce:  ["Shopify", "Liquid"],
     workflow:   ["Git", "GitHub Actions", "Node.js"],
   },
-  currentStatus: "Open to work — Développeur Full Stack / Front-end",
+  currentStatus: "Open to work - Développeur Full Stack / Front-end",
   portfolio:     "leon-gallet.fr",
 }
 ```
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustNelo&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustNelo&layout=compact&theme=transparent&hide_border=true)
 
 ---
