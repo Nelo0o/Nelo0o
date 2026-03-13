@@ -1,6 +1,6 @@
 # Léon Gallet
 
-**Développeur Full Stack**
+**Développeur Full Stack**<br/>
 Je construis des interfaces qui ont du sens, avec du code qui en a aussi.
 
 ---
@@ -10,7 +10,7 @@ const leon: Developer = {
   stack: {
     frontend:   ["React", "Next.js", "TypeScript", "JavaScript", "SCSS"],
     ecommerce:  ["Shopify", "Liquid"],
-    workflow:   ["Git", "GitHub Actions", "Node.js"],
+    workflow:   ["Git", "GitHub Actions"],
   },
   currentStatus: "Open to work - Développeur Full Stack / Front-end",
   portfolio:     "leon-gallet.fr",
