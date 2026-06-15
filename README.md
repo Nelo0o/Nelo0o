@@ -9,9 +9,9 @@ Je construis des interfaces qui ont du sens, avec du code qui en a aussi.
 const leon: Developer = {
   stack: {
     frontend:   ["React", "Next.js", "TypeScript", "JavaScript", "SCSS", "Tailwind"],
-    backend:    ["Node.js", "PHP", "Laravel", "Symfony", "Express.js", "Supabase"],
+    backend:    ["Node.js", "PHP", "Laravel", "Symfony", "Express.js"],
     ecommerce:  ["Shopify", "Liquid", "Metafields", "Metaobjects"],
-    database:   ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    database:   ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Supabase"],
     devops:     ["Docker", "Git", "GitHub Actions", "Jenkins", "CI/CD"],
     tests:      ["Jest", "Postman", "Core Web Vitals"],
   },
