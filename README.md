@@ -10,16 +10,6 @@
 
 Développeur web basé à Belfort, France.
 
----
-
-`Open to work` - Développeur web
-
-[Site Internet](https://leon-gallet.fr) · [LinkedIn](https://www.linkedin.com/in/leongallet)
-
-<details>
-<summary>Stack</summary>
-<br>
-
 ```ts
 const leon: Developer = {
   frontend:  ["React", "Next.js", "TypeScript", "SCSS", "Tailwind"],
@@ -29,5 +19,3 @@ const leon: Developer = {
   devops:    ["Docker", "Git", "GitHub Actions", "CI/CD"],
 }
 ```
-
-</details>
